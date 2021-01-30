@@ -6,7 +6,7 @@ Maker Media GmbH
 # K40
 K40 mit Ruida RDC6442S
 
-### Hier finden Sie die Konfigurationsdateien, um den Controller RDC 6442S im Lasercutter K40 benutzen zu können. Bitte mit der Software RDWorks auf den Lasercutter übertragen.
+### Hier finden Sie die Konfigurationsdateien, den Schaltplan und die Schnittdateien für die Plexiglas-Platten, um den Controller RDC 6442S im Lasercutter K40 benutzen zu können. Bitte mit der Software RDWorks auf den Lasercutter übertragen.
 
 ![Picture](https://github.com/MakeMagazinDE/K40/blob/main/IMG_0370.JPG) 
 
